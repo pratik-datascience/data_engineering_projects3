@@ -1,0 +1,15 @@
+{
+	"name": "adfpractice444",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "52b5e195-0214-4524-a78a-5ecc4b4f3789",
+		"tenantId": "ac0b03f6-11b2-4f83-8dcb-037df6966d76"
+	}
+}
